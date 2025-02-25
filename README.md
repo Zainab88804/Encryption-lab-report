@@ -11,7 +11,7 @@ This repository contains my Encryption Lab Report, where I explored AES encrypti
 ## 📂 Report Download  
 Click the link below to download the full report:  
 
-📄 [Download the Encryption Lab Report](https://github.com/YOUR-GITHUB-USERNAME/encryption-lab-report/raw/main/task%20report.docx)  
+📄 [Download the Encryption Lab Report](https://github.com/Zainab88804/Encryption-lab-report/raw/refs/heads/main/REPORT%20TASK.docx)  
 
  
 
